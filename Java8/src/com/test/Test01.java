@@ -8,4 +8,8 @@ public class Test01 {
 	public void a() {
 		
 	}
+	
+	public void b() {
+		
+	}
 }
